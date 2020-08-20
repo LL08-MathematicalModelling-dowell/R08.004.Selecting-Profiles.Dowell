@@ -1,0 +1,7 @@
+After Shuffling and quality check of shuffling, a perfect random series of profiles will be obtained.
+The finalised series is best random arrangement of total eligible profiles(say N).
+From those 'N' profiles, sample of size (say n) will be selected each day for further evaluation.
+Since the profiles are arranged randomly so first 'n' profiles will get selected for first day.
+Those selected 'n' profiles will not be replaced, another day selection will be from rest (N-n) profiles.
+In the similar way each day 'n' profiles will be selected without replacement for a week.
+Each profile will be selected only once in a week.
